@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class EmployeeModel {\n  constructor() {\n    this.id = 0;\n    this.fname = '';\n    this.lname = '';\n    this.email = '';\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}
